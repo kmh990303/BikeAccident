@@ -1,4 +1,4 @@
-const apiKey = 'yhTnoN4Ej4Q4j89tOyuJlUtvquZ0o%2FEvoC9Ehm3HtrySh2vrP4vEaUxGqCB%2FBkVpFzfDp7PssoC2yh87Fm064g%3D%3D';
+const apiKey ;
 
 const getData = async () => {
     const url = `http://apis.data.go.kr/B552061/frequentzoneBicycle/getRestFrequentzoneBicycle?ServiceKey=${apiKey}&searchYearCd=2015&siDo=11&guGun=680&type=json&numOfRows=10&pageNo=1`;
